@@ -1,0 +1,732 @@
+[
+  {
+    "question": "ser",
+    "answer": "être",
+    "id": "a77dfb66-9180-4af3-b83a-9224490f48cf"
+  },
+  {
+    "question": "haber",
+    "answer": "avoir",
+    "id": "34423657-584e-4c4a-8db8-3f06b2cb1750"
+  },
+  {
+    "question": "estar",
+    "answer": "être",
+    "id": "4dc6654b-a26e-4349-ace4-583abe66a2b3"
+  },
+  {
+    "question": "tener",
+    "answer": "avoir",
+    "id": "289b666a-6a4d-4d7e-a424-ff36facef3ab"
+  },
+  {
+    "question": "hacer",
+    "answer": "faire",
+    "id": "d09f115a-a698-4b8b-96c7-e486d92345bc"
+  },
+  {
+    "question": "poder",
+    "answer": "pouvoir",
+    "id": "d61856a5-f893-4b5f-b3ad-249cf73c48f9"
+  },
+  {
+    "question": "decir",
+    "answer": "dire",
+    "id": "98f08a58-64bc-4527-b053-05be8fe14b87"
+  },
+  {
+    "question": "ir",
+    "answer": "aller",
+    "id": "da21ca6a-605e-4396-91ef-14f5a01ab2ff"
+  },
+  {
+    "question": "ver",
+    "answer": "voir",
+    "id": "cabefc09-6452-4068-8f6d-e74061855f3c"
+  },
+  {
+    "question": "dar",
+    "answer": "donner",
+    "id": "c2029e46-550f-45d4-9e43-3a8f6fde3a4c"
+  },
+  {
+    "question": "saber",
+    "answer": "savoir",
+    "id": "8bcfeaaf-52fc-4749-8e2f-67477f2d1439"
+  },
+  {
+    "question": "querer",
+    "answer": "vouloir",
+    "id": "e36b1b85-2332-48c1-bfe5-aa8c88d7f46e"
+  },
+  {
+    "question": "llegar",
+    "answer": "arriver",
+    "id": "0955fe0b-cc3c-4e2a-87cd-ecc8261ee7ac"
+  },
+  {
+    "question": "pasar",
+    "answer": "passer",
+    "id": "bbc6419c-2fc8-4344-ac11-b6a9c7955dac"
+  },
+  {
+    "question": "deber",
+    "answer": "devoir",
+    "id": "538c39e8-4ed8-4f95-b28e-4af0564e3c9b"
+  },
+  {
+    "question": "poner",
+    "answer": "mettre",
+    "id": "3b97e8c7-284b-4be7-ba42-d32ce9dd1fbe"
+  },
+  {
+    "question": "parecer",
+    "answer": "paraître",
+    "id": "3013b187-58e0-41ae-86ef-d103c12f1565"
+  },
+  {
+    "question": "quedar",
+    "answer": "rester",
+    "id": "6257543a-382f-4b4b-be3b-972bf43c83b7"
+  },
+  {
+    "question": "creer",
+    "answer": "croire",
+    "id": "ac384f20-245a-4f76-bc76-a92429322bdb"
+  },
+  {
+    "question": "hablar",
+    "answer": "parler",
+    "id": "5cba7364-a755-45f7-84f9-80a4e397494c"
+  },
+  {
+    "question": "llevar",
+    "answer": "porter",
+    "id": "f27bc4e5-f3fa-4409-bb0b-8eacf26aede2"
+  },
+  {
+    "question": "dejar",
+    "answer": "laisser",
+    "id": "19b085f5-5fa2-4d66-8dfb-39781d7bf27c"
+  },
+  {
+    "question": "seguir",
+    "answer": "suivre",
+    "id": "88bc7b11-d93c-4b70-aeda-495b04bd9787"
+  },
+  {
+    "question": "encontrar",
+    "answer": "trouver",
+    "id": "b17f4f03-e880-49fd-9deb-b876af545301"
+  },
+  {
+    "question": "llamar",
+    "answer": "appeler",
+    "id": "561adb5b-ff41-4d42-a989-bf055ede7a98"
+  },
+  {
+    "question": "venir",
+    "answer": "venir",
+    "id": "8c4424bb-7f5c-472a-bc5d-0b56659e5cc5"
+  },
+  {
+    "question": "pensar",
+    "answer": "penser",
+    "id": "33c6b7ab-3d19-4699-b9ea-d95eb7673267"
+  },
+  {
+    "question": "salir",
+    "answer": "sortir",
+    "id": "2ab0abc4-ad88-4ff5-a1a2-cf3aeebae045"
+  },
+  {
+    "question": "volver",
+    "answer": "revenir",
+    "id": "5c7e3a15-41ef-4eca-b628-a4406ce03d6f"
+  },
+  {
+    "question": "tomar",
+    "answer": "prendre",
+    "id": "9fd6fe8f-3433-4e0a-ba7b-148a257d1602"
+  },
+  {
+    "question": "conocer",
+    "answer": "connaître",
+    "id": "383ab79d-9897-4125-8990-3b3c6aadca05"
+  },
+  {
+    "question": "vivir",
+    "answer": "vivre",
+    "id": "37889c8a-3cb6-45ca-8b56-5552be4bdefa"
+  },
+  {
+    "question": "sentir",
+    "answer": "sentir",
+    "id": "21e95d48-cda8-426e-a201-71729388f980"
+  },
+  {
+    "question": "tratar",
+    "answer": "traiter",
+    "id": "5d672e71-cb2c-4fce-a9f3-c46c4f1b1f17"
+  },
+  {
+    "question": "mirar",
+    "answer": "regarder",
+    "id": "dc398af0-e671-4abf-aaf9-f22670bc7ffb"
+  },
+  {
+    "question": "contar",
+    "answer": "raconter",
+    "id": "494aa8d2-5fba-48d0-9e10-eb85cf4b5a85"
+  },
+  {
+    "question": "empezar",
+    "answer": "commencer",
+    "id": "15777301-1bcd-4519-b0fe-c1e1a63d2aaf"
+  },
+  {
+    "question": "esperar",
+    "answer": "attendre",
+    "id": "2ae9cf6d-d2cc-4b52-980d-60a3ad2a674a"
+  },
+  {
+    "question": "buscar",
+    "answer": "chercher",
+    "id": "0cae06f9-d354-40a9-98ab-09d18701500e"
+  },
+  {
+    "question": "existir",
+    "answer": "exister",
+    "id": "d38c84b3-6aba-4ffc-92fb-ed06ced4c9e2"
+  },
+  {
+    "question": "entrar",
+    "answer": "entrer",
+    "id": "965554ce-9feb-49b1-9ca6-945a8e3e8a3f"
+  },
+  {
+    "question": "trabajar",
+    "answer": "travailler",
+    "id": "491f5267-8de4-40c9-8cef-57295efdb055"
+  },
+  {
+    "question": "escribir",
+    "answer": "écrire",
+    "id": "2bea0a96-3833-461b-b9cd-6d940b8b2583"
+  },
+  {
+    "question": "perder",
+    "answer": "perdre",
+    "id": "daf8e250-31d2-45e4-996e-d98ba1ec1b6e"
+  },
+  {
+    "question": "producir",
+    "answer": "produire",
+    "id": "d97a92da-41a5-464f-b5c9-d963630c0be2"
+  },
+  {
+    "question": "ocurrir",
+    "answer": "se passer",
+    "id": "d77ac126-fbbc-4f31-82f2-60acfd52fc50"
+  },
+  {
+    "question": "entender",
+    "answer": "comprendre",
+    "id": "2489a1fd-99da-47f3-ac70-3d5683699a83"
+  },
+  {
+    "question": "pedir",
+    "answer": "demander",
+    "id": "e5b330d6-b7fb-4da7-973e-7c3be27c2ce2"
+  },
+  {
+    "question": "recibir",
+    "answer": "recevoir",
+    "id": "ba8b0e9c-c1e0-4633-81ca-d06f3f928a46"
+  },
+  {
+    "question": "recordar",
+    "answer": "se souvenir",
+    "id": "8f428904-7194-4b4d-a62b-805d3a86f4ed"
+  },
+  {
+    "question": "terminar",
+    "answer": "terminer",
+    "id": "e999c3ef-a785-4005-b8c0-bb08173527f7"
+  },
+  {
+    "question": "permitir",
+    "answer": "permettre",
+    "id": "45be8336-9c2f-442f-9c7e-e9916eddeba7"
+  },
+  {
+    "question": "aparecer",
+    "answer": "apparaître",
+    "id": "8fb081c6-6944-47bb-96b0-6d56c73f077e"
+  },
+  {
+    "question": "conseguir",
+    "answer": "obtenir",
+    "id": "721c79dd-c691-4fe8-826b-01e8dfa28226"
+  },
+  {
+    "question": "comenzar",
+    "answer": "commencer",
+    "id": "35fb92f5-dbcc-498b-84bd-28b534436bd4"
+  },
+  {
+    "question": "servir",
+    "answer": "servir",
+    "id": "1974437d-3412-4595-a7c1-f8ef92bec760"
+  },
+  {
+    "question": "sacar",
+    "answer": "sortir",
+    "id": "209a65ee-dafc-42d4-8f8d-aa20eda652ba"
+  },
+  {
+    "question": "necesitar",
+    "answer": "avoir besoin de",
+    "id": "e0e99c63-1161-4f40-9671-1113ed92dbad"
+  },
+  {
+    "question": "mantener",
+    "answer": "maintenir",
+    "id": "bd551635-07e5-48f6-ae2a-a2c0a98d6aad"
+  },
+  {
+    "question": "resultar",
+    "answer": "résulter",
+    "id": "e82b2a11-d405-43c9-9aaa-9a714f544fd2"
+  },
+  {
+    "question": "leer",
+    "answer": "lire",
+    "id": "004902e1-67ed-47e1-bae6-7c02ad1994f8"
+  },
+  {
+    "question": "caer",
+    "answer": "tomber",
+    "id": "1f28f8d8-5b56-4547-ba51-89106be6d2db"
+  },
+  {
+    "question": "cambiar",
+    "answer": "changer",
+    "id": "86df43c8-7748-4e8b-b8ff-b3e72809345f"
+  },
+  {
+    "question": "presentar",
+    "answer": "présenter",
+    "id": "01ac94fd-706a-4f6e-bd34-9cecd090b1d8"
+  },
+  {
+    "question": "crear",
+    "answer": "créer",
+    "id": "d0af627a-5580-48e4-906f-2e679ce45d48"
+  },
+  {
+    "question": "abrir",
+    "answer": "ouvrir",
+    "id": "171aa82f-f7dc-4919-b7ed-fc1e72a1aaf1"
+  },
+  {
+    "question": "considerar",
+    "answer": "considérer",
+    "id": "afb9b33c-16e3-4024-ac34-d52fd5a48003"
+  },
+  {
+    "question": "oír",
+    "answer": "entendre",
+    "id": "2a6c41f5-acbf-40cd-be7b-4bc315137770"
+  },
+  {
+    "question": "acabar",
+    "answer": "finir",
+    "id": "cf2d1a4c-0c5d-4e8d-b19d-3dd355bfbbc4"
+  },
+  {
+    "question": "convertir",
+    "answer": "convertir",
+    "id": "d52d2b7a-3920-4f71-8392-92d2f4441f2a"
+  },
+  {
+    "question": "ganar",
+    "answer": "gagner",
+    "id": "22770d53-28b6-43b0-acd6-e37dca9d07f2"
+  },
+  {
+    "question": "formar",
+    "answer": "former",
+    "id": "dc1d52ec-f1a3-4748-847b-19ffb42f8763"
+  },
+  {
+    "question": "traer",
+    "answer": "apporter",
+    "id": "dc4eb4d8-bc40-4761-b965-eb3bccb228f2"
+  },
+  {
+    "question": "partir",
+    "answer": "partir",
+    "id": "0552a1b4-868c-48cc-a95a-491a01ac14b0"
+  },
+  {
+    "question": "morir",
+    "answer": "mourir",
+    "id": "c5715862-6da6-43f9-a992-cdcd17ae7400"
+  },
+  {
+    "question": "aceptar",
+    "answer": "accepter",
+    "id": "91de9e0b-49c9-4667-9c2e-f8634646290c"
+  },
+  {
+    "question": "realizar",
+    "answer": "réaliser",
+    "id": "8627bb43-293c-4425-9a75-6de1435a0628"
+  },
+  {
+    "question": "suponer",
+    "answer": "supposer",
+    "id": "ebb3813c-5848-4ad7-b5f2-8699ecc6e595"
+  },
+  {
+    "question": "comprender",
+    "answer": "comprendre",
+    "id": "bb1c6cfb-4410-4852-bd29-b8db27530394"
+  },
+  {
+    "question": "lograr",
+    "answer": "réussir",
+    "id": "1e881d77-9fd9-4dba-aebd-309998344472"
+  },
+  {
+    "question": "explicar",
+    "answer": "expliquer",
+    "id": "6c4cd829-8c02-4e31-892d-c56359281d9a"
+  },
+  {
+    "question": "preguntar",
+    "answer": "demander",
+    "id": "39be04e0-7bd7-44a3-8a86-39132f2c0b30"
+  },
+  {
+    "question": "tocar",
+    "answer": "toucher",
+    "id": "283be207-2da9-4c49-8e2e-fa28f709b2b1"
+  },
+  {
+    "question": "reconocer",
+    "answer": "reconnaître",
+    "id": "bad1bdea-eb3c-46a8-82a5-57ea9583f526"
+  },
+  {
+    "question": "estudiar",
+    "answer": "étudier",
+    "id": "229abe7d-9063-489f-b640-0c678161c0f2"
+  },
+  {
+    "question": "alcanzar",
+    "answer": "atteindre",
+    "id": "0b549030-5a08-4141-a9b5-1c2ebe12dacb"
+  },
+  {
+    "question": "nacer",
+    "answer": "naître",
+    "id": "acd96de9-bbc1-40bb-bec4-60d0977c6963"
+  },
+  {
+    "question": "dirigir",
+    "answer": "diriger",
+    "id": "17f1024c-5351-4c49-8810-87f65aa144b2"
+  },
+  {
+    "question": "correr",
+    "answer": "courir",
+    "id": "23bed7d3-b11b-48b9-ba95-dfea19d73c5d"
+  },
+  {
+    "question": "utilizar",
+    "answer": "utiliser",
+    "id": "0e509470-4630-4945-87e9-f227d66725a4"
+  },
+  {
+    "question": "pagar",
+    "answer": "payer",
+    "id": "fbddc08a-52e5-4218-9e33-b689ce48c0e7"
+  },
+  {
+    "question": "ayudar",
+    "answer": "aider",
+    "id": "cf18958d-4576-4e0b-9fbe-3bec99b94cc9"
+  },
+  {
+    "question": "gustar",
+    "answer": "aimer",
+    "id": "1c7fab60-a550-411f-a02b-06014a995ae6"
+  },
+  {
+    "question": "jugar",
+    "answer": "jouer",
+    "id": "770d624b-7496-45f7-9020-58f7c404379d"
+  },
+  {
+    "question": "escuchar",
+    "answer": "écouter",
+    "id": "5401de80-d83b-4cc2-92d2-d90ad878db47"
+  },
+  {
+    "question": "cumplir",
+    "answer": "accomplir",
+    "id": "127774a4-1c9d-4347-9573-dcc9d0827194"
+  },
+  {
+    "question": "ofrecer",
+    "answer": "offrir",
+    "id": "cc5d9f76-c3c8-4b5a-be90-2c28b86a006f"
+  },
+  {
+    "question": "descubrir",
+    "answer": "découvrir",
+    "id": "d864125d-d204-4680-b162-bbd6f2fd8400"
+  },
+  {
+    "question": "levantar",
+    "answer": "lever",
+    "id": "eb635065-86d3-400e-8034-8cb938be6799"
+  },
+  {
+    "question": "intentar",
+    "answer": "essayer",
+    "id": "de3f9535-ea8f-4ba5-85de-a849ed769b10"
+  },
+  {
+    "question": "usar",
+    "answer": "utiliser",
+    "id": "c962a332-2c73-48ba-812c-274c6bf0e399"
+  },
+  {
+    "question": "decidir",
+    "answer": "décider",
+    "id": "3726629e-2d99-45b1-9683-78631237511c"
+  },
+  {
+    "question": "repetir",
+    "answer": "répéter",
+    "id": "518c11d9-2756-44ca-85f0-154a938ea771"
+  },
+  {
+    "question": "olvidar",
+    "answer": "oublier",
+    "id": "1aa277d8-089d-405c-b78e-0353a1ea919c"
+  },
+  {
+    "question": "valer",
+    "answer": "valoir",
+    "id": "ba663a36-9daa-405a-b054-93cf88df4c98"
+  },
+  {
+    "question": "comer",
+    "answer": "manger",
+    "id": "b4411719-d667-4597-bd52-a6a95ac62d80"
+  },
+  {
+    "question": "mostrar",
+    "answer": "montrer",
+    "id": "2848e9de-1058-4f9b-9442-e99dd6d199c7"
+  },
+  {
+    "question": "ocupar",
+    "answer": "occuper",
+    "id": "5135d86c-b222-4249-ac91-84fb3611486b"
+  },
+  {
+    "question": "mover",
+    "answer": "bouger",
+    "id": "c2a362e4-f84c-4a68-b095-d273bb8e1662"
+  },
+  {
+    "question": "continuar",
+    "answer": "continuer",
+    "id": "1833f601-ca2e-4001-8bca-1e403085b859"
+  },
+  {
+    "question": "suceder",
+    "answer": "se passer",
+    "id": "994798a3-8a27-4e9b-af74-5dd01881dbfb"
+  },
+  {
+    "question": "fijar",
+    "answer": "fixer",
+    "id": "ee327e20-96ba-4597-91cb-982c9a71d398"
+  },
+  {
+    "question": "aprender",
+    "answer": "apprendre",
+    "id": "40fa2caa-9b7f-43bb-bc28-49aef4f25f12"
+  },
+  {
+    "question": "referir",
+    "answer": "référer",
+    "id": "566787c0-f88a-47b1-ba6b-bb0048964992"
+  },
+  {
+    "question": "acercar",
+    "answer": "approcher",
+    "id": "a72033e8-fff4-42ca-a185-bb19bc4f0954"
+  },
+  {
+    "question": "dedicar",
+    "answer": "dédier",
+    "id": "e68ddddb-c36d-42c6-b518-c732d38905e9"
+  },
+  {
+    "question": "cerrar",
+    "answer": "fermer",
+    "id": "74ef8695-a3b8-4893-8599-5084a0828e52"
+  },
+  {
+    "question": "suceder",
+    "answer": "arriver",
+    "id": "3af667f2-fd67-42c5-a9e5-b26e6c29f535"
+  },
+  {
+    "question": "detener",
+    "answer": "arrêter",
+    "id": "4f042a25-5eea-40d6-b80d-6c0694c58332"
+  },
+  {
+    "question": "obtener",
+    "answer": "obtenir",
+    "id": "7562cf80-d15c-4519-b8db-73598184d8eb"
+  },
+  {
+    "question": "responder",
+    "answer": "répondre",
+    "id": "0c5b127e-231a-4a16-a26f-121e1800bf1d"
+  },
+  {
+    "question": "sufrir",
+    "answer": "souffrir",
+    "id": "82b04d11-e71e-4960-8cb0-f67047811792"
+  },
+  {
+    "question": "esperar",
+    "answer": "espérer",
+    "id": "b62d96fb-3621-458b-9965-0887637292a6"
+  },
+  {
+    "question": "limpiar",
+    "answer": "nettoyer",
+    "id": "d8b24c8e-5b5b-47f2-88d4-1169c5a70e60"
+  },
+  {
+    "question": "defender",
+    "answer": "défendre",
+    "id": "b96b1ee4-d254-4a6c-bf77-773d2e81026f"
+  },
+  {
+    "question": "aparecer",
+    "answer": "apparaître",
+    "id": "cc283614-4411-4b65-a026-152f3b5aaeb4"
+  },
+  {
+    "question": "aprovechar",
+    "answer": "profiter",
+    "id": "73603d07-c5de-4523-a308-7654d5187745"
+  },
+  {
+    "question": "reunir",
+    "answer": "réunir",
+    "id": "766437a8-c036-4a07-920f-c72e422e9e49"
+  },
+  {
+    "question": "llenar",
+    "answer": "remplir",
+    "id": "939f9d36-1c0e-43f8-af4e-4b68abd8a395"
+  },
+  {
+    "question": "soportar",
+    "answer": "supporter",
+    "id": "4c6dffc1-4f66-4fc3-b8b4-3cedbbe94413"
+  },
+  {
+    "question": "preocupar",
+    "answer": "préoccuper",
+    "id": "ad444501-8e22-4210-b23c-6db153d275f8"
+  },
+  {
+    "question": "desarrollar",
+    "answer": "développer",
+    "id": "92a18cb1-33e6-47c1-bdd5-bd041f9d1e8e"
+  },
+  {
+    "question": "viajar",
+    "answer": "voyager",
+    "id": "71f108d6-5e09-4cf3-a679-404098fdf280"
+  },
+  {
+    "question": "caminar",
+    "answer": "marcher",
+    "id": "43347c05-db7a-4eb9-8d33-438360ae696a"
+  },
+  {
+    "question": "coger",
+    "answer": "prendre",
+    "id": "5df8660a-f51f-4029-ba6d-0a42a92ec32b"
+  },
+  {
+    "question": "apoyar",
+    "answer": "soutenir",
+    "id": "daeb38e2-6339-47a6-9d51-1f2ac144d6c5"
+  },
+  {
+    "question": "negar",
+    "answer": "nier",
+    "id": "50b7af7e-3f49-4c37-b95e-094ee5c765a1"
+  },
+  {
+    "question": "atender",
+    "answer": "assister",
+    "id": "9988d908-40aa-42f5-9628-0ce487736634"
+  },
+  {
+    "question": "saber",
+    "answer": "savoir",
+    "id": "e1c73659-42ea-42d6-b3fa-444b40dfb56b"
+  },
+  {
+    "question": "lograr",
+    "answer": "réussir",
+    "id": "a314fce5-4c03-4870-abc0-fad30b2663b4"
+  },
+  {
+    "question": "construir",
+    "answer": "construire",
+    "id": "3571e332-01f2-4eed-b08d-7eceff5f9dd8"
+  },
+  {
+    "question": "causar",
+    "answer": "causer",
+    "id": "8b36bb61-e6b2-422c-a6be-ebd5f2a98846"
+  },
+  {
+    "question": "esconder",
+    "answer": "cacher",
+    "id": "ee3df8af-8ef0-4f85-b04d-98fc22361251"
+  },
+  {
+    "question": "perseguir",
+    "answer": "poursuivre",
+    "id": "03db1f62-4a9e-48f2-91d9-f99c3ee7b11d"
+  },
+  {
+    "question": "preparar",
+    "answer": "préparer",
+    "id": "c6a04d21-8692-42d7-aefb-281ce4a4a0dc"
+  },
+  {
+    "question": "colocar",
+    "answer": "placer",
+    "id": "55685327-60d5-46bb-b55e-d7752527b79c"
+  }
+]
